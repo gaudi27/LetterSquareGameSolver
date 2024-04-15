@@ -1,2 +1,2 @@
-# LetterSquareGameSolver
-A solver for the Letter Square game using recursive backtracking
+# Smaller Projects/Assignments
+A repository of my shorter projects/assignments
