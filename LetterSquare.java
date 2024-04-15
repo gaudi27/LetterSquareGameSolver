@@ -4,7 +4,7 @@
  * 
  * starter code: Computer Science 112 staff
  * 
- * code added by:
+ * code added by: George Audi
  */
 
 import java.util.*;
